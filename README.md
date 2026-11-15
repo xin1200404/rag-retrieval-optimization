@@ -1,6 +1,6 @@
 # RAG Retrieval Optimization & Evaluation
 
-A research-oriented project evaluating and optimizing retrieval strategies for scientific document search using the SciFact dataset.
+A project that evaluated and optimized retrieval strategies for scientific document search using the SciFact dataset.
 
 ## Overview
 
